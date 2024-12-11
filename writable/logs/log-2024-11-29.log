@@ -1,0 +1,297 @@
+CRITICAL - 2024-11-29 16:17:40 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "('"
+[Method: GET, Route: Home/%28%27/Home/formedit/%27%20.%20$alternatif-%3Esupplier_id%29;]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('Home/(\'/Home/formedit/\' . $alternatif->supplier_id);')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('Home/(\'/Home/formedit/\' . $alternatif->supplier_id);')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-29 16:28:58 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`db_saw`.`konversi_data`, CONSTRAINT `FK_konversi_data_alternatif` FOREIGN KEY (`supplier_id`) REFERENCES `alternatif` (`supplier_id`)) in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('DELETE FROM alt...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM alt...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM alt...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(39): CodeIgniter\Database\BaseConnection->query('DELETE FROM alt...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(88): App\Models\dataalternatif_model->hapusA('8')
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->delete('8')
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-29 16:28:58 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`db_saw`.`konversi_data`, CONSTRAINT `FK_konversi_data_alternatif` FOREIGN KEY (`supplier_id`) REFERENCES `alternatif` (`supplier_id`))
+[Method: GET, Route: Home/delete/8]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(39): CodeIgniter\Database\BaseConnection->query('DELETE FROM alternatif WHERE supplier_id = 8')
+ 2 APPPATH\Controllers\Home.php(88): App\Models\dataalternatif_model->hapusA('8')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('8')
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 16:28:58 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`db_saw`.`konversi_data`, CONSTRAINT `FK_konversi_data_alternatif` FOREIGN KEY (`supplier_id`) REFERENCES `alternatif` (`supplier_id`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM alternatif WHERE supplier_id = 8')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM alternatif WHERE supplier_id = 8')
+ 3 APPPATH\Models\dataalternatif_model.php(39): CodeIgniter\Database\BaseConnection->query('DELETE FROM alternatif WHERE supplier_id = 8')
+ 4 APPPATH\Controllers\Home.php(88): App\Models\dataalternatif_model->hapusA('8')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('8')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 16:28:58 --> [Caused by] mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`db_saw`.`konversi_data`, CONSTRAINT `FK_konversi_data_alternatif` FOREIGN KEY (`supplier_id`) REFERENCES `alternatif` (`supplier_id`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('DELETE FROM alternatif WHERE supplier_id = 8', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM alternatif WHERE supplier_id = 8')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM alternatif WHERE supplier_id = 8')
+ 4 APPPATH\Models\dataalternatif_model.php(39): CodeIgniter\Database\BaseConnection->query('DELETE FROM alternatif WHERE supplier_id = 8')
+ 5 APPPATH\Controllers\Home.php(88): App\Models\dataalternatif_model->hapusA('8')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('8')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 16:31:10 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "formedit($id)"
+[Method: GET, Route: Home/formedit%28$id%29/1]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('Home/formedit($id)/1')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('Home/formedit($id)/1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 16:36:56 --> ErrorException: Attempt to read property "supplier_id" on array
+[Method: GET, Route: Home/formedit/1]
+in APPPATH\Views\Formedit.php on line 11.
+ 1 APPPATH\Views\Formedit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "supplier_id" on array', 'D:\\laragon\\www\\Project009\\app\\Views\\Formedit.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Project009\\app\\Views\\Formedit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Formedit', [], true)
+ 5 APPPATH\Controllers\Home.php(60): view('Formedit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->formedit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 16:37:06 --> ErrorException: Attempt to read property "supplier_id" on array
+[Method: GET, Route: Home/formedit/1]
+in APPPATH\Views\Formedit.php on line 11.
+ 1 APPPATH\Views\Formedit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "supplier_id" on array', 'D:\\laragon\\www\\Project009\\app\\Views\\Formedit.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Project009\\app\\Views\\Formedit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Formedit', [], true)
+ 5 APPPATH\Controllers\Home.php(60): view('Formedit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->formedit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:18:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "tambah_data_konversi.php"
+[Method: GET, Route: Home/forminpuKonversi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_data_konversi.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tambah_data_konversi', [], true)
+ 3 APPPATH\Controllers\Home.php(141): view('tambah_data_konversi')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:19:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Tambah_data_konversi.php"
+[Method: GET, Route: Home/forminpuKonversi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Tambah_data_konversi.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Tambah_data_konversi', [], true)
+ 3 APPPATH\Controllers\Home.php(141): view('Tambah_data_konversi')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:20:10 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Tambah_data_Konversi.php"
+[Method: GET, Route: Home/forminpuKonversi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Tambah_data_Konversi.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Tambah_data_Konversi', [], true)
+ 3 APPPATH\Controllers\Home.php(141): view('Tambah_data_Konversi')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:20:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Tambah_data_Konversi.php"
+[Method: GET, Route: Home/forminpuKonversi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Tambah_data_Konversi.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Tambah_data_Konversi', [], true)
+ 3 APPPATH\Controllers\Home.php(141): view('Tambah_data_Konversi')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:21:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Tambah_data_Konversi.php"
+[Method: GET, Route: Home/forminpuKonversi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Tambah_data_Konversi.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Tambah_data_Konversi', [], true)
+ 3 APPPATH\Controllers\Home.php(141): view('Tambah_data_Konversi')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:21:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Tambah_data_Konversi.php"
+[Method: GET, Route: Home/forminpuKonversi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Tambah_data_Konversi.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Tambah_data_Konversi', [], true)
+ 3 APPPATH\Controllers\Home.php(141): view('Tambah_data_Konversi')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:22:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Tambah_data_Konversi.php"
+[Method: GET, Route: Home/forminpuKonversi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Tambah_data_Konversi.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Tambah_data_Konversi', [], true)
+ 3 APPPATH\Controllers\Home.php(141): view('Tambah_data_Konversi')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:22:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Tambah_data_Konversi.php"
+[Method: GET, Route: Home/forminpuKonversi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Tambah_data_Konversi.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Tambah_data_Konversi', [], true)
+ 3 APPPATH\Controllers\Home.php(141): view('Tambah_data_Konversi')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:25:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Tambah_data_Konversi.php"
+[Method: GET, Route: Home/forminpuKonversi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Tambah_data_Konversi.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Tambah_data_Konversi', [], true)
+ 3 APPPATH\Controllers\Home.php(141): view('Tambah_data_Konversi')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:25:52 --> ErrorException: Undefined variable $suppliers
+[Method: GET, Route: Home/forminpuKonversi]
+in APPPATH\Views\Tambah_data_Konversi.php on line 16.
+ 1 APPPATH\Views\Tambah_data_Konversi.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $suppliers', 'D:\\laragon\\www\\Project009\\app\\Views\\Tambah_data_Konversi.php', 16)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Project009\\app\\Views\\Tambah_data_Konversi.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Tambah_data_Konversi', [], true)
+ 5 APPPATH\Controllers\Home.php(141): view('Tambah_data_Konversi')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:27:34 --> ErrorException: Undefined variable $supplier_id
+[Method: GET, Route: Home/forminpuKonversi]
+in APPPATH\Views\Tambah_data_Konversi.php on line 16.
+ 1 APPPATH\Views\Tambah_data_Konversi.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $supplier_id', 'D:\\laragon\\www\\Project009\\app\\Views\\Tambah_data_Konversi.php', 16)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Project009\\app\\Views\\Tambah_data_Konversi.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Tambah_data_Konversi', [], true)
+ 5 APPPATH\Controllers\Home.php(141): view('Tambah_data_Konversi')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:31:20 --> BadMethodCallException: Call to undefined method App\Models\dataalternatif_model::getSuppliers
+[Method: GET, Route: Home/forminpuKonversi]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Home.php(140): CodeIgniter\Model->__call('getSuppliers', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:32:38 --> ArgumentCountError: Too few arguments to function App\Models\dataalternatif_model::getsupplier(), 0 passed in D:\laragon\www\Project009\app\Controllers\Home.php on line 140 and exactly 1 expected
+[Method: GET, Route: Home/forminpuKonversi]
+in APPPATH\Models\dataalternatif_model.php on line 26.
+ 1 APPPATH\Controllers\Home.php(140): App\Models\dataalternatif_model->getsupplier()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:33:59 --> ErrorException: Undefined variable $id
+[Method: GET, Route: Home/forminpuKonversi]
+in APPPATH\Controllers\Home.php on line 140.
+ 1 APPPATH\Controllers\Home.php(140): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'D:\\laragon\\www\\Project009\\app\\Controllers\\Home.php', 140)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-29 17:34:01 --> ErrorException: Undefined variable $id
+[Method: GET, Route: Home/forminpuKonversi]
+in APPPATH\Controllers\Home.php on line 140.
+ 1 APPPATH\Controllers\Home.php(140): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'D:\\laragon\\www\\Project009\\app\\Controllers\\Home.php', 140)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->forminpuKonversi()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')

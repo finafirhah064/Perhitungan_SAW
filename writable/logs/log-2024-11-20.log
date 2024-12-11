@@ -1,0 +1,1956 @@
+CRITICAL - 2024-11-20 01:26:58 --> ErrorException: Declaration of App\Models\dataalternatif_model::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 01:31:18 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 01:31:30 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 01:32:53 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 01:33:37 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 01:34:30 --> ErrorException: Cannot redeclare App\Controllers\Home::edit()
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Controllers\Home.php on line 69.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 01:35:36 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 01:37:12 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 01:37:14 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 01:37:47 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 01:37:48 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 02:37:40 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 02:37:53 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 02:38:34 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 02:38:39 --> ErrorException: Declaration of App\Models\dataalternatif_model::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 20.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 02:49:11 --> ErrorException: Declaration of App\Models\dataalternatif_model::delete($id) must be compatible with CodeIgniter\BaseModel::delete($id = null, bool $purge = false)
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 24.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 02:50:05 --> ErrorException: Declaration of App\Models\dataalternatif_model::delete($id, $data) must be compatible with CodeIgniter\BaseModel::delete($id = null, bool $purge = false)
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Models\dataalternatif_model.php on line 24.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-11-20 04:03:05 --> TypeError: CodeIgniter\Database\BaseResult::getResult(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 287
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseResult.php on line 106.
+ 1 SYSTEMPATH\Model.php(287): CodeIgniter\Database\BaseResult->getResult(null)
+ 2 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\BaseModel->findAll()
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 04:15:21 --> mysqli_sql_exception: Unknown column 'alternatif.id' in 'where clause' in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\laragon\www\Project009\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\laragon\www\Project009\system\BaseModel.php(610): CodeIgniter\Model->doFind(true, '1')
+#6 D:\laragon\www\Project009\app\Controllers\Home.php(42): CodeIgniter\BaseModel->find('1')
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->edit('1')
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-11-20 04:15:22 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'alternatif.id' in 'where clause'
+[Method: GET, Route: Home/edit/1]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = :alternatif.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '1')
+ 4 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('1')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('1')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:15:22 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'alternatif.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = \'1\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = :alternatif.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '1')
+ 6 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('1')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('1')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:15:22 --> [Caused by] mysqli_sql_exception: Unknown column 'alternatif.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = \'1\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = \'1\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = :alternatif.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '1')
+ 7 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('1')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('1')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 04:15:45 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('DELETE FROM `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2843): CodeIgniter\Database\BaseConnection->query('DELETE FROM `al...', Array, false)
+#4 D:\laragon\www\Project009\system\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+#5 D:\laragon\www\Project009\system\BaseModel.php(1158): CodeIgniter\Model->doDelete(Array, false)
+#6 D:\laragon\www\Project009\app\Controllers\Home.php(63): CodeIgniter\BaseModel->delete(Array)
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->delete('1')
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-11-20 04:15:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id' in 'where clause'
+[Method: GET, Route: Home/delete/1]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2843): CodeIgniter\Database\BaseConnection->query('DELETE FROM `alternatif`
+WHERE `id` IN :id:', [...], false)
+ 2 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 3 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete([...], false)
+ 4 APPPATH\Controllers\Home.php(63): CodeIgniter\BaseModel->delete([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('1')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:15:45 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `alternatif`
+WHERE `id` IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `alternatif`
+WHERE `id` IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2843): CodeIgniter\Database\BaseConnection->query('DELETE FROM `alternatif`
+WHERE `id` IN :id:', [...], false)
+ 4 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 5 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete([...], false)
+ 6 APPPATH\Controllers\Home.php(63): CodeIgniter\BaseModel->delete([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('1')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:15:45 --> [Caused by] mysqli_sql_exception: Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('DELETE FROM `alternatif`
+WHERE `id` IN (\'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `alternatif`
+WHERE `id` IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `alternatif`
+WHERE `id` IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2843): CodeIgniter\Database\BaseConnection->query('DELETE FROM `alternatif`
+WHERE `id` IN :id:', [...], false)
+ 5 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 6 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete([...], false)
+ 7 APPPATH\Controllers\Home.php(63): CodeIgniter\BaseModel->delete([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('1')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 04:16:14 --> mysqli_sql_exception: Unknown column 'alternatif.id' in 'where clause' in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\laragon\www\Project009\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\laragon\www\Project009\system\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+#6 D:\laragon\www\Project009\app\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-11-20 04:16:14 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'alternatif.id' in 'where clause'
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = :alternatif.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 4 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:16:14 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'alternatif.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = \'2\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = :alternatif.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 6 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:16:14 --> [Caused by] mysqli_sql_exception: Unknown column 'alternatif.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `alternatif`
+WHERE `alternatif`.`id` = :alternatif.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 7 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:19:35 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:20:05 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:22:57 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:22:59 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:23:05 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/3]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '3')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('3')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('3')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:24:13 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/3]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '3')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('3')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('3')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:24:15 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/3]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '3')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('3')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('3')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:29:15 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/3]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '3')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('3')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('3')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:29:16 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/3]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '3')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('3')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('3')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:29:28 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:31:36 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:31:37 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:56:31 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 04:56:32 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\BaseModel->find('2')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:02:09 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 3 APPPATH\Controllers\Home.php(44): CodeIgniter\BaseModel->find('2')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:02:16 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 211
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(211): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '2')
+ 3 APPPATH\Controllers\Home.php(44): CodeIgniter\BaseModel->find('2')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:07:07 --> TypeError: CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in D:\laragon\www\Project009\system\Model.php on line 330
+[Method: GET, Route: Home/edit/2]
+in SYSTEMPATH\Database\BaseResult.php on line 401.
+ 1 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 3 APPPATH\Models\dataalternatif_model.php(25): CodeIgniter\BaseModel->first()
+ 4 APPPATH\Controllers\Home.php(44): App\Models\dataalternatif_model->getAlternatifById('2')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:29:46 --> ErrorException: Undefined variable $alternatif
+[Method: GET, Route: Home/edit/2]
+in APPPATH\Views\update_data.php on line 10.
+ 1 APPPATH\Views\update_data.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alternatif', 'D:\\laragon\\www\\Project009\\app\\Views\\update_data.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Project009\\app\\Views\\update_data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('update_data', [], true)
+ 5 APPPATH\Controllers\Home.php(47): view('update_data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:31:27 --> ErrorException: Undefined array key "supplier_id"
+[Method: GET, Route: Home/edit/2]
+in APPPATH\Views\update_data.php on line 10.
+ 1 APPPATH\Views\update_data.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "supplier_id"', 'D:\\laragon\\www\\Project009\\app\\Views\\update_data.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Project009\\app\\Views\\update_data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('update_data', [], true)
+ 5 APPPATH\Controllers\Home.php(47): view('update_data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:32:36 --> ErrorException: Undefined array key "supplier_id"
+[Method: GET, Route: Home/edit/2]
+in APPPATH\Views\update_data.php on line 10.
+ 1 APPPATH\Views\update_data.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "supplier_id"', 'D:\\laragon\\www\\Project009\\app\\Views\\update_data.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Project009\\app\\Views\\update_data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('update_data', [], true)
+ 5 APPPATH\Controllers\Home.php(47): view('update_data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->edit('2')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 05:35:33 --> mysqli_sql_exception: Unknown column 'supplier_id' in 'where clause' in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('delete from kri...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('delete from kri...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('delete from kri...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(38): CodeIgniter\Database\BaseConnection->query('delete from kri...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(77): App\Models\dataalternatif_model->hapusA('3')
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->delete('3')
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-20 05:35:33 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'supplier_id' in 'where clause'
+[Method: GET, Route: Home/delete/3]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(38): CodeIgniter\Database\BaseConnection->query('delete from kriteria where supplier_id=3')
+ 2 APPPATH\Controllers\Home.php(77): App\Models\dataalternatif_model->hapusA('3')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:35:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'supplier_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('delete from kriteria where supplier_id=3')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('delete from kriteria where supplier_id=3')
+ 3 APPPATH\Models\dataalternatif_model.php(38): CodeIgniter\Database\BaseConnection->query('delete from kriteria where supplier_id=3')
+ 4 APPPATH\Controllers\Home.php(77): App\Models\dataalternatif_model->hapusA('3')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('3')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:35:33 --> [Caused by] mysqli_sql_exception: Unknown column 'supplier_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('delete from kriteria where supplier_id=3', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('delete from kriteria where supplier_id=3')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('delete from kriteria where supplier_id=3')
+ 4 APPPATH\Models\dataalternatif_model.php(38): CodeIgniter\Database\BaseConnection->query('delete from kriteria where supplier_id=3')
+ 5 APPPATH\Controllers\Home.php(77): App\Models\dataalternatif_model->hapusA('3')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('3')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 05:38:37 --> mysqli_sql_exception: Unknown column 'supplier_id' in 'where clause' in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('delete from kri...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('delete from kri...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('delete from kri...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(38): CodeIgniter\Database\BaseConnection->query('delete from kri...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(73): App\Models\dataalternatif_model->hapusA('3')
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->delete('3')
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-20 05:38:37 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'supplier_id' in 'where clause'
+[Method: GET, Route: Home/delete/3]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(38): CodeIgniter\Database\BaseConnection->query('delete from kriteria where supplier_id=3')
+ 2 APPPATH\Controllers\Home.php(73): App\Models\dataalternatif_model->hapusA('3')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:38:37 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'supplier_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('delete from kriteria where supplier_id=3')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('delete from kriteria where supplier_id=3')
+ 3 APPPATH\Models\dataalternatif_model.php(38): CodeIgniter\Database\BaseConnection->query('delete from kriteria where supplier_id=3')
+ 4 APPPATH\Controllers\Home.php(73): App\Models\dataalternatif_model->hapusA('3')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('3')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:38:37 --> [Caused by] mysqli_sql_exception: Unknown column 'supplier_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('delete from kriteria where supplier_id=3', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('delete from kriteria where supplier_id=3')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('delete from kriteria where supplier_id=3')
+ 4 APPPATH\Models\dataalternatif_model.php(38): CodeIgniter\Database\BaseConnection->query('delete from kriteria where supplier_id=3')
+ 5 APPPATH\Controllers\Home.php(73): App\Models\dataalternatif_model->hapusA('3')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('3')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:44:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "edit.php"
+[Method: GET, Route: Home/update_data/2]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('edit', [], true)
+ 3 APPPATH\Controllers\Home.php(47): view('edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->update_data('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 05:45:29 --> mysqli_sql_exception: Duplicate entry '0' for key 'alternatif.PRIMARY' in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `alterna...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `alterna...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `alterna...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `alterna...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(33): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(53): App\Models\dataalternatif_model->prosesEditA('alternatif', Array, Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->update_data('2')
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 05:45:29 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '0' for key 'alternatif.PRIMARY'
+[Method: GET, Route: Home/update_data/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `alternatif` SET `supplier_id` = :supplier_id:, `name` = :name:
+WHERE `supplier_id` = :supplier_id.1:', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(33): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 3 APPPATH\Controllers\Home.php(53): App\Models\dataalternatif_model->prosesEditA('alternatif', [...], [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->update_data('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:45:29 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '0' for key 'alternatif.PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'2\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `alternatif` SET `supplier_id` = :supplier_id:, `name` = :name:
+WHERE `supplier_id` = :supplier_id.1:', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(33): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 5 APPPATH\Controllers\Home.php(53): App\Models\dataalternatif_model->prosesEditA('alternatif', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->update_data('2')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:45:29 --> [Caused by] mysqli_sql_exception: Duplicate entry '0' for key 'alternatif.PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `alternatif` SET `supplier_id` = :supplier_id:, `name` = :name:
+WHERE `supplier_id` = :supplier_id.1:', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(33): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 6 APPPATH\Controllers\Home.php(53): App\Models\dataalternatif_model->prosesEditA('alternatif', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->update_data('2')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 05:45:41 --> mysqli_sql_exception: Duplicate entry '0' for key 'alternatif.PRIMARY' in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `alterna...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `alterna...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `alterna...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `alterna...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(33): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(53): App\Models\dataalternatif_model->prosesEditA('alternatif', Array, Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->update_data('2')
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 05:45:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '0' for key 'alternatif.PRIMARY'
+[Method: GET, Route: Home/update_data/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `alternatif` SET `supplier_id` = :supplier_id:, `name` = :name:
+WHERE `supplier_id` = :supplier_id.1:', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(33): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 3 APPPATH\Controllers\Home.php(53): App\Models\dataalternatif_model->prosesEditA('alternatif', [...], [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->update_data('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:45:41 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '0' for key 'alternatif.PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'2\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `alternatif` SET `supplier_id` = :supplier_id:, `name` = :name:
+WHERE `supplier_id` = :supplier_id.1:', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(33): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 5 APPPATH\Controllers\Home.php(53): App\Models\dataalternatif_model->prosesEditA('alternatif', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->update_data('2')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:45:41 --> [Caused by] mysqli_sql_exception: Duplicate entry '0' for key 'alternatif.PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `alternatif` SET `supplier_id` = :supplier_id:, `name` = :name:
+WHERE `supplier_id` = :supplier_id.1:', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(33): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 6 APPPATH\Controllers\Home.php(53): App\Models\dataalternatif_model->prosesEditA('alternatif', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->update_data('2')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 05:45:46 --> mysqli_sql_exception: Duplicate entry '0' for key 'alternatif.PRIMARY' in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `alterna...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `alterna...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `alterna...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `alterna...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(33): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(53): App\Models\dataalternatif_model->prosesEditA('alternatif', Array, Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->update_data('5')
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 05:45:46 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '0' for key 'alternatif.PRIMARY'
+[Method: GET, Route: Home/update_data/5]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `alternatif` SET `supplier_id` = :supplier_id:, `name` = :name:
+WHERE `supplier_id` = :supplier_id.1:', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(33): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 3 APPPATH\Controllers\Home.php(53): App\Models\dataalternatif_model->prosesEditA('alternatif', [...], [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->update_data('5')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:45:46 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '0' for key 'alternatif.PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'5\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'5\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `alternatif` SET `supplier_id` = :supplier_id:, `name` = :name:
+WHERE `supplier_id` = :supplier_id.1:', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(33): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 5 APPPATH\Controllers\Home.php(53): App\Models\dataalternatif_model->prosesEditA('alternatif', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->update_data('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 05:45:46 --> [Caused by] mysqli_sql_exception: Duplicate entry '0' for key 'alternatif.PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'5\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'5\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `alternatif` SET `supplier_id` = NULL, `name` = NULL
+WHERE `supplier_id` = \'5\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `alternatif` SET `supplier_id` = :supplier_id:, `name` = :name:
+WHERE `supplier_id` = :supplier_id.1:', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(33): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 6 APPPATH\Controllers\Home.php(53): App\Models\dataalternatif_model->prosesEditA('alternatif', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->update_data('5')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:01:07 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/formedit/2]
+in APPPATH\Views\update_data.php on line 9.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('update_data', [], true)
+ 4 APPPATH\Controllers\Home.php(47): view('update_data', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->formedit('2')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:03:52 --> mysqli_sql_exception: Unknown column 'supplier_id' in 'where clause' in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('delete from kri...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('delete from kri...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('delete from kri...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(38): CodeIgniter\Database\BaseConnection->query('delete from kri...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(75): App\Models\dataalternatif_model->hapusA('0')
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->delete('0')
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-20 06:03:52 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'supplier_id' in 'where clause'
+[Method: GET, Route: Home/delete/0]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(38): CodeIgniter\Database\BaseConnection->query('delete from kriteria where supplier_id=0')
+ 2 APPPATH\Controllers\Home.php(75): App\Models\dataalternatif_model->hapusA('0')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('0')
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:03:52 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'supplier_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('delete from kriteria where supplier_id=0')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('delete from kriteria where supplier_id=0')
+ 3 APPPATH\Models\dataalternatif_model.php(38): CodeIgniter\Database\BaseConnection->query('delete from kriteria where supplier_id=0')
+ 4 APPPATH\Controllers\Home.php(75): App\Models\dataalternatif_model->hapusA('0')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('0')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:03:52 --> [Caused by] mysqli_sql_exception: Unknown column 'supplier_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('delete from kriteria where supplier_id=0', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('delete from kriteria where supplier_id=0')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('delete from kriteria where supplier_id=0')
+ 4 APPPATH\Models\dataalternatif_model.php(38): CodeIgniter\Database\BaseConnection->query('delete from kriteria where supplier_id=0')
+ 5 APPPATH\Controllers\Home.php(75): App\Models\dataalternatif_model->hapusA('0')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->delete('0')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:19:05 --> ErrorException: Attempt to read property "name" on string
+[Method: GET, Route: Home/formedit/4]
+in APPPATH\Views\Update_data.php on line 29.
+ 1 APPPATH\Views\Update_data.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on string', 'D:\\laragon\\www\\Project009\\app\\Views\\Update_data.php', 29)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Project009\\app\\Views\\Update_data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Update_data', [], true)
+ 5 APPPATH\Controllers\Home.php(47): view('Update_data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->formedit('4')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:21:35 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/formedit/4]
+in APPPATH\Controllers\Home.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->formedit('4')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:35:22 --> ErrorException: Undefined variable $tabelalternatif
+[Method: GET, Route: Home/simpanA]
+in APPPATH\Controllers\Home.php on line 19.
+ 1 APPPATH\Controllers\Home.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tabelalternatif', 'D:\\laragon\\www\\Project009\\app\\Controllers\\Home.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:37:32 --> ErrorException: Undefined variable $tabelalternatif
+[Method: GET, Route: Home/simpanA]
+in APPPATH\Controllers\Home.php on line 19.
+ 1 APPPATH\Controllers\Home.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tabelalternatif', 'D:\\laragon\\www\\Project009\\app\\Controllers\\Home.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:37:33 --> ErrorException: Undefined variable $tabelalternatif
+[Method: GET, Route: Home/simpanA]
+in APPPATH\Controllers\Home.php on line 19.
+ 1 APPPATH\Controllers\Home.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tabelalternatif', 'D:\\laragon\\www\\Project009\\app\\Controllers\\Home.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:37:33 --> ErrorException: Undefined variable $tabelalternatif
+[Method: GET, Route: Home/simpanA]
+in APPPATH\Controllers\Home.php on line 19.
+ 1 APPPATH\Controllers\Home.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tabelalternatif', 'D:\\laragon\\www\\Project009\\app\\Controllers\\Home.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:37:34 --> ErrorException: Undefined variable $tabelalternatif
+[Method: GET, Route: Home/simpanA]
+in APPPATH\Controllers\Home.php on line 19.
+ 1 APPPATH\Controllers\Home.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tabelalternatif', 'D:\\laragon\\www\\Project009\\app\\Controllers\\Home.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:38:36 --> BadMethodCallException: Call to undefined method App\Models\datakriteria_model::saveA
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('saveA', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:42:23 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:42:23 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:42:23 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:42:23 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:42:24 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:42:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:42:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:42:24 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:42:53 --> BadMethodCallException: Call to undefined method App\Models\datakriteria_model::saveA
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('saveA', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:44:05 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:44:05 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:44:05 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:44:05 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:44:47 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:44:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:44:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:44:47 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:44:48 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:44:48 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:44:48 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:44:48 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(21): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:49:36 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:49:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:49:36 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:49:36 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:49:36 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:49:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:49:37 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:49:37 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:50:46 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:50:46 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:50:46 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:50:46 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:50:47 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:50:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:50:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:50:47 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:50:53 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:50:53 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:50:53 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:50:53 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(23): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:53:51 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(18): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(22): App\Models\dataalternatif_model->saveMhs('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:53:51 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(18): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(22): App\Models\dataalternatif_model->saveMhs('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:53:51 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(18): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(22): App\Models\dataalternatif_model->saveMhs('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:53:51 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(18): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(22): App\Models\dataalternatif_model->saveMhs('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:53:52 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(18): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(22): App\Models\dataalternatif_model->saveMhs('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:53:52 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(18): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(22): App\Models\dataalternatif_model->saveMhs('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:53:52 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(18): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(22): App\Models\dataalternatif_model->saveMhs('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:53:52 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(18): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(22): App\Models\dataalternatif_model->saveMhs('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 06:53:56 --> mysqli_sql_exception: Column 'supplier_id' cannot be null in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(18): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(22): App\Models\dataalternatif_model->saveMhs('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-20 06:53:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+[Method: GET, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(18): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(22): App\Models\dataalternatif_model->saveMhs('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:53:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(18): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(22): App\Models\dataalternatif_model->saveMhs('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 06:53:56 --> [Caused by] mysqli_sql_exception: Column 'supplier_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(18): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(22): App\Models\dataalternatif_model->saveMhs('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+INFO - 2024-11-20 06:56:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 06:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 06:56:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 06:56:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 06:56:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 06:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-20 07:36:08 --> BadMethodCallException: Call to undefined method App\Models\datakriteria_model::tampilkriteria
+[Method: GET, Route: Home/viewkriteria]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Home.php(46): CodeIgniter\Model->__call('tampilkriteria', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 07:36:28 --> BadMethodCallException: Call to undefined method App\Models\datakriteria_model::tampilkriteria
+[Method: GET, Route: Home/viewkriteria]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Home.php(46): CodeIgniter\Model->__call('tampilkriteria', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 07:40:26 --> BadMethodCallException: Call to undefined method App\Models\datakriteria_model::tampilkriteria
+[Method: GET, Route: Home/viewkriteria]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Home.php(39): CodeIgniter\Model->__call('tampilkriteria', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-20 07:40:36 --> BadMethodCallException: Call to undefined method App\Models\datakriteria_model::tampilkriteria
+[Method: GET, Route: Home/viewkriteria]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Home.php(39): CodeIgniter\Model->__call('tampilkriteria', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 12:35:43 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'root', '', 'db_saw', 3306, '', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\laragon\www\Project009\app\Models\datakriteria_model.php(16): CodeIgniter\Database\BaseConnection->query('select * from k...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(39): App\Models\datakriteria_model->tampilkriteria()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\laragon\www\Project009\app\Models\datakriteria_model.php(16): CodeIgniter\Database\BaseConnection->query('select * from k...')
+#3 D:\laragon\www\Project009\app\Controllers\Home.php(39): App\Models\datakriteria_model->tampilkriteria()
+#4 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#8 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#11 {main}
+CRITICAL - 2024-11-20 12:35:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: Home/viewkriteria]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\datakriteria_model.php(16): CodeIgniter\Database\BaseConnection->query('select * from kriteria')
+ 3 APPPATH\Controllers\Home.php(39): App\Models\datakriteria_model->tampilkriteria()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-20 12:35:53 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'root', '', 'db_saw', 3306, '', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(23): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(50): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(23): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#3 D:\laragon\www\Project009\app\Controllers\Home.php(50): App\Models\dataalternatif_model->tampilAlternatif()
+#4 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#8 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#11 {main}
+CRITICAL - 2024-11-20 12:35:53 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\dataalternatif_model.php(23): CodeIgniter\Database\BaseConnection->query('select * from alternatif')
+ 3 APPPATH\Controllers\Home.php(50): App\Models\dataalternatif_model->tampilAlternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')

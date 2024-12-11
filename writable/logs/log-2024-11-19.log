@@ -1,0 +1,1296 @@
+CRITICAL - 2024-11-19 16:44:56 --> ErrorException: Undefined variable $datakriteria
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 50.
+ 1 APPPATH\Views\home.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datakriteria', 'D:\\laragon\\www\\Project009\\app\\Views\\home.php', 50)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Project009\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('home', [], true)
+ 5 APPPATH\Controllers\Home.php(11): view('home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:22:07 --> Error: Class "App\Models\datakriteria_model" not found
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Controllers\Home.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:22:57 --> Error: Class "App\Models\datakriteria_model" not found
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Controllers\Home.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:22:58 --> Error: Class "App\Models\datakriteria_model" not found
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Controllers\Home.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:22:58 --> Error: Class "App\Models\datakriteria_model" not found
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Controllers\Home.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:22:58 --> Error: Class "App\Models\datakriteria_model" not found
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Controllers\Home.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:22:59 --> Error: Class "App\Models\datakriteria_model" not found
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Controllers\Home.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:24:31 --> Error: Class "App\Models\datakriteria_model" not found
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Controllers\Home.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:28:00 --> Error: Class "App\Models\datakriteria_model" not found
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Controllers\Home.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:43:19 --> ErrorException: Array to string conversion
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 20.
+ 1 APPPATH\Views\viewkriteria.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'D:\\laragon\\www\\Project009\\app\\Views\\viewkriteria.php', 20)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Project009\\app\\Views\\viewkriteria.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 5 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:46:01 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 23.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:47:01 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 23.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:47:07 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 23.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:47:07 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 23.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:47:08 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 23.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:47:08 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 23.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 17:55:38 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:04:30 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:06:39 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:06:40 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:06:41 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:06:41 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:06:55 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:09:17 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:10:04 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:10:05 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:10:05 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:10:05 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:12:35 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:12:36 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:12:36 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:12:37 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:12:37 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:12:37 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:12:37 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 18:12:38 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 19:00:40 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 19:00:41 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 19:00:43 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 19:59:04 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: Home/viewkriteria]
+in APPPATH\Views\viewkriteria.php on line 26.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('viewkriteria', [], true)
+ 4 APPPATH\Controllers\Home.php(24): view('viewkriteria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkriteria()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:18:20 --> Error: Class "App\Controllers\dataalternatif_model" not found
+[Method: GET, Route: Home/viewalternatif]
+in APPPATH\Controllers\Home.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:20:35 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:20:35 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:20:35 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:20:35 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:20:37 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:20:37 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:20:37 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:20:37 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:20:49 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:20:49 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:20:49 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:20:49 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:24:30 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:24:30 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:24:30 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:24:30 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:24:31 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:24:31 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:24:31 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:24:31 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:25:52 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:25:52 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:25:52 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:25:52 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:27:13 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:27:13 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:27:13 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:27:13 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:27:14 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:27:14 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:27:14 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:27:14 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:27:15 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:27:15 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:27:15 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:27:15 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:27:15 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:27:15 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:27:15 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:27:15 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:29:04 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:29:04 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:29:04 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:29:04 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:29:06 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:29:06 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:29:06 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:29:06 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:31:51 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:31:51 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:31:51 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:31:51 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+ERROR - 2024-11-19 20:31:53 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1 in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * altern...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * altern...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * altern...')
+#3 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * altern...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-19 20:31:53 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+[Method: GET, Route: Home/viewalternatif]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 2 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:31:53 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 3 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 4 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-19 20:31:53 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alternatif' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * alternatif', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * alternatif')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * alternatif')
+ 4 APPPATH\Models\dataalternatif_model.php(16): CodeIgniter\Database\BaseConnection->query('select * alternatif')
+ 5 APPPATH\Controllers\Home.php(31): App\Models\dataalternatif_model->tampilAlternatif()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewalternatif()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')

@@ -1,0 +1,68 @@
+CRITICAL - 2024-11-28 20:09:05 --> Error: Class "App\Controllers\datakonvesri_model" not found
+[Method: GET, Route: Home/viewkonversi]
+in APPPATH\Controllers\Home.php on line 96.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewkonversi()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-28 21:38:39 --> Error: Class "App\Controllers\datanormalisasi_model" not found
+[Method: GET, Route: Home/viewnormalisasi]
+in APPPATH\Controllers\Home.php on line 144.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewnormalisasi()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-28 22:13:33 --> mysqli_sql_exception: Table 'db_saw.v_hasil_aakhir' doesn't exist in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('select * from v...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * from v...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * from v...')
+#3 D:\laragon\www\Project009\app\Models\datarangking_model.php(16): CodeIgniter\Database\BaseConnection->query('select * from v...')
+#4 D:\laragon\www\Project009\app\Controllers\Home.php(185): App\Models\datarangking_model->tampilranking()
+#5 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->viewrangking()
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-11-28 22:13:33 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_saw.v_hasil_aakhir' doesn't exist
+[Method: GET, Route: Home/viewrangking]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\datarangking_model.php(16): CodeIgniter\Database\BaseConnection->query('select * from v_hasil_aakhir')
+ 2 APPPATH\Controllers\Home.php(185): App\Models\datarangking_model->tampilranking()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewrangking()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-28 22:13:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_saw.v_hasil_aakhir' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * from v_hasil_aakhir')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * from v_hasil_aakhir')
+ 3 APPPATH\Models\datarangking_model.php(16): CodeIgniter\Database\BaseConnection->query('select * from v_hasil_aakhir')
+ 4 APPPATH\Controllers\Home.php(185): App\Models\datarangking_model->tampilranking()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewrangking()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-28 22:13:33 --> [Caused by] mysqli_sql_exception: Table 'db_saw.v_hasil_aakhir' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select * from v_hasil_aakhir', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select * from v_hasil_aakhir')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select * from v_hasil_aakhir')
+ 4 APPPATH\Models\datarangking_model.php(16): CodeIgniter\Database\BaseConnection->query('select * from v_hasil_aakhir')
+ 5 APPPATH\Controllers\Home.php(185): App\Models\datarangking_model->tampilranking()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->viewrangking()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

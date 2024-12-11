@@ -1,0 +1,58 @@
+ERROR - 2024-11-23 15:42:20 --> mysqli_sql_exception: Duplicate entry '7' for key 'alternatif.PRIMARY' in D:\laragon\www\Project009\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\laragon\www\Project009\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `al...', 0)
+#1 D:\laragon\www\Project009\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `al...')
+#2 D:\laragon\www\Project009\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `al...')
+#3 D:\laragon\www\Project009\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `al...', Array, false)
+#4 D:\laragon\www\Project009\app\Models\dataalternatif_model.php(47): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\laragon\www\Project009\app\Controllers\Home.php(22): App\Models\dataalternatif_model->saveA('alternatif', Array)
+#6 D:\laragon\www\Project009\system\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+#7 D:\laragon\www\Project009\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\laragon\www\Project009\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\laragon\www\Project009\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\laragon\www\Project009\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\laragon\www\Project009\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\laragon\www\Project009\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-23 15:42:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '7' for key 'alternatif.PRIMARY'
+[Method: POST, Route: Home/simpanA]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 2 APPPATH\Models\dataalternatif_model.php(47): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(22): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-23 15:42:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '7' for key 'alternatif.PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (\'07\', \'Toko \')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (\'07\', \'Toko \')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 4 APPPATH\Models\dataalternatif_model.php(47): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(22): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
+CRITICAL - 2024-11-23 15:42:20 --> [Caused by] mysqli_sql_exception: Duplicate entry '7' for key 'alternatif.PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (\'07\', \'Toko \')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (\'07\', \'Toko \')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (\'07\', \'Toko \')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `alternatif` (`supplier_id`, `name`) VALUES (:supplier_id:, :name:)', [...], false)
+ 5 APPPATH\Models\dataalternatif_model.php(47): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(22): App\Models\dataalternatif_model->saveA('alternatif', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->simpanA()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Project009\\public\\index.php')
